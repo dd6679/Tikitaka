@@ -10,6 +10,7 @@ Tikitaka는 공을 움직여 골대를 맞추는 축구 게임으로 유니티�
 - 오브젝트 풀링을 이용한 랜덤 아이템 박스
 
 주요 스크립트 파일들
+https://github.com/dd6679/Tikitaka/tree/main/Assets/NK/Scripts
 NK_Box.cs:
 
 기능: 박스 오브젝트와 관련된 로직을 처리하는 스크립트.
