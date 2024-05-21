@@ -1,14 +1,14 @@
 # Tikitaka
 Tikitaka는 공을 움직여 골대를 맞추는 축구 게임으로 유니티와 C#으로 구현되었습니다.
 
-#담당한 기능
+## 담당한 기능
 - PlayerPrefs을 이용한 유저 임시 저장 및 유저 랭킹
 - 플레이어(공)의 가속도를 이용한 움직임 구현
 - 골키퍼의 공을 따라가는 움직임 구현
 - 공의 생명과 포인트 점수 계산
 - 오브젝트 풀링을 이용한 랜덤 아이템 박스
 
-#주요 스크립트 파일들
+## 주요 스크립트 파일들
 https://github.com/dd6679/Tikitaka/tree/main/Assets/NK/Scripts
 
 1. NK_Box.cs:
